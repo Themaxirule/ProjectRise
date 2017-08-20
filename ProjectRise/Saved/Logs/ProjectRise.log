@@ -243,3 +243,10 @@ LogInit: Object subsystem initialized
 [2017.08.20-15.07.46:592][697]LogOutputDevice:Error: ntdll.dll!0x00000000FE8D0D51
 [2017.08.20-15.07.46:592][697]LogOutputDevice:Error: 
 [2017.08.20-15.07.46:602][697]LogStats:                SubmitErrorReport -  0.000 s
+[2017.08.20-15.07.53:274][697]LogStats:                    SendNewReport -  6.673 s
+[2017.08.20-15.07.53:274][697]LogStats:             FDebug::EnsureFailed -  8.621 s
+[2017.08.20-15.08.14:844][697]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.08.20-15.08.14:866][697]SourceControl: Info [master 6ea31f6] FirstCommit
+[2017.08.20-15.08.14:866][697]SourceControl: Info  1 file changed, 3 insertions(+)
+[2017.08.20-15.08.14:866][697]SourceControl: Info  create mode 100644 ProjectRise/ProjectRise.uproject
+[2017.08.20-15.08.14:878][697]SourceControl: Info Commited [master 6ea31f6] FirstCommit.
